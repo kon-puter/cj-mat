@@ -1,0 +1,9 @@
+ 
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+
+site_name: Maturita ČJ knížečky
